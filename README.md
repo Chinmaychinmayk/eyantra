@@ -21,4 +21,6 @@ There are four scrips made by our team controlling the operation :
 
 4) detec_aruco.py : Custom server created by our team which processes the camera data gets the position of aruco markers. It returns response as pick, drop position and payload ids. This submission also includes the srv file created ArucoSW to enable this service
 final results are as in the videos 
-https://youtu.be/zElOMFhHoX0?si=oIWRhVVzmjR-BqCB
+
+
+[![Watch the video](https://img.youtube.com/vi/GV8gkHFqm1A/0.jpg)](https://youtu.be/GV8gkHFqm1A?si=HaXrYE9bc-79YkQm)
