@@ -20,7 +20,8 @@ There are four scrips made by our team controlling the operation :
 3) passing.py : This server handles the passing operation - requests the pick and drop position, manipulates the arm to perform the pick and drop operation.
 
 4) detec_aruco.py : Custom server created by our team which processes the camera data gets the position of aruco markers. It returns response as pick, drop position and payload ids. This submission also includes the srv file created ArucoSW to enable this service
-final results are as in the videos 
+final results are as in the videos
+   these scripts are to be executed after the build of https://github.com/eYantra-Robotics-Competition/eyrc-24-25-logistic-cobot.git
 
 
 [![Watch the video](https://img.youtube.com/vi/GV8gkHFqm1A/0.jpg)](https://youtu.be/GV8gkHFqm1A?si=HaXrYE9bc-79YkQm)
